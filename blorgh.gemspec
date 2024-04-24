@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.version     = Blorgh::VERSION
   spec.authors     = ["victorclee"]
   spec.email       = ["victorchristopherlee@gmail.com"]
-  spec.homepage    = "TODO"
+  spec.homepage    = "https://github.com/victorclee/rails-engine-blorgh"
   spec.summary     = "TODO: Summary of Blorgh."
   spec.description = "TODO: Description of Blorgh."
   spec.license     = "MIT"
