@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors     = ["victorclee"]
   spec.email       = ["victorchristopherlee@gmail.com"]
   spec.homepage    = "https://github.com/victorclee/rails-engine-blorgh"
-  spec.summary     = "TODO: Summary of Blorgh."
-  spec.description = "TODO: Description of Blorgh."
+  spec.summary     = "Summary of Blorgh."
+  spec.description = "Description of Blorgh."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
@@ -15,8 +15,8 @@ Gem::Specification.new do |spec|
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
-  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/victorclee/rails-engine-blorgh"
+  spec.metadata["changelog_uri"] = "https://github.com/victorclee/rails-engine-blorgh/blob/master/README.md"
 
   spec.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
 
